@@ -122,15 +122,14 @@ Write down what you hear in your crits as a post. It is a very useful part of th
 
 # Project Requirements
 
-+ Evidence of research (knowing the field, alternative, previous and current approaches, your audience, how is your project different from other similar things, what are your influences).
-+ Cite your research sources. Wikipedia is kind of a starter resource, a pointer to more primary sources, which you need to seek out and cite. Develop a list of books/articles to read, inspirational projects, experimental work, installations to see, etc.
-+ Plagiarism…not allowed! Be sure to cite the sources of your research. That includes code. For example, if you have dropped in some code from Tom Igoe’s book or class, cite that too. Using work without attribution is not just stealing, it’s leaving the impression that you did all the work.
-+ Process documentation on your Thesis Journal throughout, i.e. at least on a weekly basis.
-+ Documentation of user testing and feedback when the idea is far enough along to solicit meaningful feedback. By week 10, some evidence of user testing.
-+ User Experience: While for most interactive projects including complex websites, 14 weeks is not enough time for a fully-functioning product, you must be able to show a demonstration prototype; and also include user experience specifications such as flows and visual design.
-+ Any material help you get on the development of your project outside of class and Thesis Advisor feedback (i.e. design, programming, production) must be approved by your Thesis Advisor in advance, roles articulated, and acknowledgement given. If you need support for an element or two, that’s ok…but at least 80% of the work must be your own.
++ <span class="underlined">**Evidence of research**</span>. This includes knowing the field, alternative, previous and current approaches, your audience, how is your project different from other similar things, what are your influences.
++ <span class="underlined">**Cite your research sources.**</span> Wikipedia is kind of a starter resource, a pointer to more primary sources, which you need to seek out and cite. Develop a list of books/articles to read, inspirational projects, experimental work, installations to see, etc.
++ <span class="underlined">**Plagiarism…not allowed!**</span> Be sure to cite the sources of your research. That includes code. For example, if you have dropped in some code from Tom Igoe’s book or class, cite that too. Using work without attribution is not just stealing, it’s leaving the impression that you did all the work.
++ <span class="underlined">**Process documentation on your Capstone Journal throughout**</span>. At a minimum, you must write one post per week.
++ <span class="underlined">**Evidence of user testing and feedback**</span> once the idea is far enough along to solicit meaningful feedback. 
++ <span class="underlined">**Consideration of user experience.**</span> While for most interactive projects including complex websites, 14 weeks is not enough time for a fully-functioning product, you must be able to show a demonstration prototype; and also include user experience specifications such as flows and visual design.
++ <span class="underlined">**Any outside help must be approved in advance.**</span> This includes material assistance on the development of your project outside of class (i.e. design, programming, production). If you need support for an element or two, that’s ok…but at least 80% of the work must be your own.
 
 
-<br>
 <br>
 <br>
