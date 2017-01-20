@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documentation
+permalink: '/doc'
 ---
 
 <!-- * Do not remove this line (it will not be displayed) 
