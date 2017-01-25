@@ -8,10 +8,6 @@ permalink: '/doc'
 {:toc}
  -->
 
-
-
-
-
 You are expected to keep an online journal of your progress throughout this class. Ongoing documentation of your research, your design and production process, testing, and methodology is a major part of your final project and functions in lieu of a lengthly paper. 
 
 Your instructor will read this journal to see how you are progressing, so you should update your journal regularly over the course of the semester. Post a summary of your week’s progress on your blog regularly as the semester progresses.
