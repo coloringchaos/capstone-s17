@@ -45,10 +45,8 @@ Although your Capstone project is mostly self-directed, there will be weekly ass
 |  <span class="underlined">*February 9, 2017*</span> | &nbsp;&nbsp;|Project Proposal / Approval  |
 |  <span class="underlined">*February 22, 2017*</span> | &nbsp;&nbsp;|Project Set (no changing topics after this date…)  |
 |  <span class="underlined">*March 8 & 15, 2017*</span> | &nbsp;&nbsp;|Midterm Presentation  |
-|  <span class="underlined">*March 22, 2017*</span> | &nbsp;&nbsp;|User Testing & Feedback  |
-|  <span class="underlined">*April 19, 2017*</span> | &nbsp;&nbsp;|Documentation Submission  |
-|  <span class="underlined">*April 26, 2017*</span> | &nbsp;&nbsp;|Final Presentation (to critics)  |
-|  <span class="underlined">*Finals Week*</span> | &nbsp;&nbsp;|Public Presentation  |
+|  <span class="underlined">*May 5, 2017*</span> | &nbsp;&nbsp;|Final Presentation (to faculty and guests)  |
+
 
 
 *The major purpose of a milestone is to make sure you are on track. And they have consequences:*
@@ -88,22 +86,23 @@ Part of the idea of Capstone is to both give you a lot of support and a lot of i
 
 There are two distinct aspects to the documentation requirement in this course: 
 
-#### 1. Online Journal / Work-in-progress Blog
+#### Online Journal / Work-in-progress Blog
 
-Ongoing documentation of your research, your design and production processes, testing, and methodology is a major part of your final Capstone project and serves in lieu of a lengthy written paper. Post a summary of your week’s progress on the blog regularly as the semester progresses. ***Posts are due Tuesday night.*** This gives me time to review it prior to class.
+Ongoing documentation of your research, your design and production processes, testing, and methodology is a major part of your final Capstone project and serves in lieu of a lengthy written paper. Post a summary of your week’s progress on the blog regularly as the semester progresses. 
+
+<!-- ***Posts are due Tuesday night.*** This gives me time to review it prior to class. -->
 
 Your Blog will be a record of your process during the semester and open for insights and feedback from your advisors, mentors and classmates as you develop your project. It will enable me to get an overview of your work, but don’t do it just to fill out a box or to please me. It is intended to be a resource for *YOU* – a record and reflection of your process, your thinking, your insights. I promise you it will be useful for you to look back on!! I expect you to spend careful time cultivating this online journal, logging ideas and notes. Each post does not need to be especially formal, it should, however, be comprehensible.
 
 
-#### 2. Project Summary & Formal Documentation Submission
+#### Project Summary & Formal Documentation Submission
 
-In Week 14, you will deliver your Capstone Summary Documentation: a personal statement, summary abstracts (i.e., a paragraph) of your research, design and production, user testing, critical feedback, and conclusions. 
+At the end of the semester, you will submit your [semester deliverables](/capstone-s17/deliverables). You will also need to document your progress in an online format of your choice. 
 
-You will also need to complete and submit your formal project documentation, either in print or web format (more on that later). 
 
-<br>
+<!-- <br> -->
 
-# Mentors / Consultants / Feedback
+<!-- # Mentors / Consultants / Feedback
 
 You will get a lot of feedback during the mid-term reviews both orally and in written form. We will go over that feedback together carefully and discuss how you will (or will not) incorporate their ideas. You will post a summary of those decisions to your blog.
 
@@ -113,7 +112,7 @@ Be prepared when you go talk to them… don’t waste their time. Or waste your 
 
 #### *VERY IMPORTANT: Keep track of your feedback!*
 
-Write down what you hear in your crits as a post. It is a very useful part of the design process. When you are presenting in class, a classmate can take notes for you so that you can concentrate on the crit.
+Write down what you hear in your crits as a post. It is a very useful part of the design process. When you are presenting in class, a classmate can take notes for you so that you can concentrate on the crit. -->
 
 <!-- Before any presentation, make a post e.g. Mid-Term Presentation. There’s never enough time to hear all the comments, but your classmates can post theirs as comments to your post, your notetaker can post the reviewers’ comments.. and you can think about the feedback later when you are not on the spot. -->
 
