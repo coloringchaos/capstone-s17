@@ -56,6 +56,8 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 + Reading your slides
 + Technical jargon
 
+#### [Presentation Tips (slides)](https://docs.google.com/a/colorado.edu/presentation/d/1jfoPLamRvxa8YFGYEvU7W-SMV7aAQvj4LBcIOIu35uE/edit?usp=sharing)
+
 Your presentation should be a <span class="underlined">**min of 8 minutes and max of 9 minutes long**</span><br>You will have 6 minutes for Q & A
 
 <br>
